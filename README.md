@@ -1,8 +1,5 @@
 <H1> JavaScript Jogo da memória </H1>
 
-<p align="center">
-  <img src="https://github.com/RenatoCCS/detona_ralph_jsgame_dio/blob/main/src/images/ralph.png" alt="JSGame Detona Ralph Logo">
-</p>
 
 Bem-vindo ao **Jogo a memória,** desenvolvi esse projeto acompanhando as aulas do bootcamp DIO, 
 aqui você encontrará um jogo divertido. Este projeto não oferece apenas entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
